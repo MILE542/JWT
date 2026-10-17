@@ -3,7 +3,7 @@
   "functions": {
     "api/index.py": {
       "maxDuration": 60,
-      "includeFiles": ["thunderFF_pb2.py"]
+      "includeFiles": "thunderFF_pb2.py"
     }
   },
   "routes": [
